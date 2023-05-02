@@ -24,6 +24,9 @@ This is primarily an index for active Google docs used by the various [CISA SBOM
 
 [SBOM Types](https://docs.google.com/document/d/1PsUhUQ_L-lNymD9p613zP0_MiT1Boag68TP3aiwZ4R8)
 
+### Published documents
+
+[Types of Software Bill of Materials (SBOM)](https://www.cisa.gov/resources-tools/resources/types-software-bill-materials-sbom) (April 2023)
 
 ## Sharing and Exchanging
 
@@ -39,11 +42,17 @@ This is primarily an index for active Google docs used by the various [CISA SBOM
 
 ## Cloud and Online Applications
 
+There are three subsidiary cloud working groups:
+
+* SBOM classic
+* Cloud stack transparency
+* Service transparency
+
 ### Standing documents
 
 [Running Notes](https://docs.google.com/document/d/1ZpTtsY0H2SwfNRq6qUzLMiWLQ8OwlhmJeg_M0cxrOiQ)
 
-## Under development
+### Under development
 
 [SBOM Cloud Use Cases](https://docs.google.com/document/d/1yog5o2g2j9MG75G62AWDxblNNkYEZ0WJmkbZWbbIhnU)
 
@@ -61,11 +70,10 @@ The concept of VEX grew out of SBOM, but VEX is not strictly part of or necessar
 
 ### Published documents
 
-[Vulnerability-Exploitability eXchange (VEX) – An Overview](https://ntia.gov/files/ntia/publications/vex_one-page_summary.pdf)
+[Vulnerability-Exploitability eXchange (VEX) – An Overview](https://ntia.gov/files/ntia/publications/vex_one-page_summary.pdf) (September 2021)
 
-[Vulnerability Exploitability eXchange (VEX) – Use Cases](https://www.cisa.gov/resources-tools/resources/vulnerability-exploitability-exchange-vex-use-case-document-april-2022)
+[Vulnerability Exploitability eXchange (VEX) – Use Cases](https://www.cisa.gov/resources-tools/resources/vulnerability-exploitability-exchange-vex-use-case-document-april-2022) (April 2022)
 
-[Vulnerability Exploitability eXchange (VEX) - Status Justifications](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
+[Vulnerability Exploitability eXchange (VEX) - Status Justifications](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf) (June 2022)
 
-
-
+[Minimum Requirements for Vulnerability Exploitability eXchange (VEX)](https://www.cisa.gov/resources-tools/resources/minimum-requirements-vulnerability-exploitability-exchange-vex) (April 2023)
