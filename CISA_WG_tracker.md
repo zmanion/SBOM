@@ -60,6 +60,10 @@ There are three subsidiary cloud working groups:
 
 The concept of VEX grew out of SBOM, but VEX is not strictly part of or necessary for SBOM.
 
+### Participation
+
+Weekly meetings on Mondays 1000-1100 EDT. The VEX WG is also piloting a mailing list. To subscribe, send mail to ${group_name}+subscribe@<span>googlegroups.com. You can also subscribe and access the list [on the web]((https://groups.google.com/g/cisa-sbom-vex)) using a Google account. The name of the list is cisa-sbom-vex.
+
 ### Standing documents
 
 [Running Notes](https://docs.google.com/document/d/1uF29lTr0OJ_QwUfuej1EfhFgDIziEj5U1x_bZ3V_8bQ)
