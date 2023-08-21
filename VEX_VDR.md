@@ -24,7 +24,7 @@ RA-5 refers departments and agencies to Appendix F for additional guidance on [E
 
 "Vulnerability disclosure report" language (but not the VDR acronym) also appears in [Draft NIST SP 800-216](https://doi.org/10.6028/NIST.SP.800-216-draft) *Recommendations for Federal Vulnerability Disclosure Guidelines* published in June 2021. Neither "vulnerability disclosure report" nor "VDR" appear in the final version of SP 800-216 published in May 2023.
 
-In Draft NIST SP 800-216, "vulnerability disclosure report" describes an incomming report to a department or agency's Vulnerability Disclosure Program Office (VDPO). This is different than the NIST SP 800-161r1 description of a VDR as a "...proper and complete vulnerability assessments for components listed in SBOMs."
+In Draft NIST SP 800-216, "vulnerability disclosure report" describes an incoming report to a department or agency's Vulnerability Disclosure Program Office (VDPO). This is different than the NIST SP 800-161r1 description of a VDR as a "...proper and complete vulnerability assessments for components listed in SBOMs."
 
 ## VEX defined
 From [*Vulnerability-Exploitability eXchange (VEX) – An Overview*](https://ntia.gov/sites/default/files/publications/vex_one-page_summary_0.pdf) published in September 2021:
