@@ -62,7 +62,7 @@ The concept of VEX grew out of SBOM, but VEX is not strictly part of or necessar
 
 ### Participation
 
-Weekly meetings on Mondays 1000-1100 EDT. The VEX WG is also piloting a mailing list. To subscribe, send mail to ${group_name}+subscribe@<span>googlegroups.com. You can also subscribe and access the list [on the web]((https://groups.google.com/g/cisa-sbom-vex)) using a Google account. The name of the list is cisa-sbom-vex.
+Weekly meetings on Mondays 1000-1100 ET. To subscribe to the cisa-sbom-vex mailing list, send mail to cisa-sbom-vex+subscribe@<span>googlegroups.com. You can also subscribe and access the list [on the web](https://groups.google.com/g/cisa-sbom-vex) using a Google account.
 
 ### Standing documents
 
@@ -70,14 +70,16 @@ Weekly meetings on Mondays 1000-1100 EDT. The VEX WG is also piloting a mailing 
 
 ### Under development
 
-[When to issue a VEX](https://docs.google.com/document/d/152d2oRNcd7n8h8BRJpkl8zPEwC35m8x27VjFsYACavw)
+[VEX Practices Review](https://docs.google.com/document/d/17DUTZZzTnx3TPNoW4TEmYcndOIpVJsIZFES-4P7Rc5M)
 
 ### Published documents
 
-[Vulnerability-Exploitability eXchange (VEX) – An Overview](https://ntia.gov/files/ntia/publications/vex_one-page_summary.pdf) (September 2021)
+[Vulnerability-Exploitability eXchange (VEX) – An Overview](https://ntia.gov/files/ntia/publications/vex_one-page_summary.pdf) (NTIA, September 2021)
 
 [Vulnerability Exploitability eXchange (VEX) – Use Cases](https://www.cisa.gov/resources-tools/resources/vulnerability-exploitability-exchange-vex-use-case-document-april-2022) (April 2022)
 
 [Vulnerability Exploitability eXchange (VEX) - Status Justifications](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf) (June 2022)
 
 [Minimum Requirements for Vulnerability Exploitability eXchange (VEX)](https://www.cisa.gov/resources-tools/resources/minimum-requirements-vulnerability-exploitability-exchange-vex) (April 2023)
+
+[When to Issue VEX Information](https://www.cisa.gov/resources-tools/resources/when-issue-vex-information) (November 2023)
