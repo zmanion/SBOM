@@ -1,10 +1,20 @@
-# Unconfusing VEX and VDR
+# Unconfusing VEX and VDR (and VAR)
 
-Last update: 2023-06-27  
+Last update: 2024-12-09  
 zmanion@protonmail.com
 
 ## Summary
 Vulnerability Exploitability eXchange (VEX) and Vulnerability Disclosure Reports (VDR) are similar concepts that are sometimes conflated or confused. While both concepts are in relatively early stages of development and implementation, VEX is more clearly defined and has a more substantial history.
+
+In the [November 2024 upate to NIST SP 800-161r1]([url](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1-upd1.pdf)), it appears that VDR has been redefined as a "vulnerability advisory report" or VAR:
+
+> vulnerability advisory report
+> Publication by a technology developer and/or provider to customers or the general public that describes a
+vulnerability with a focus on remediation and mitigation. [ISOIEC29147, adapted]
+
+The word "report" seems redundant. Otherwiswe VAR makes sense, it's a vulnerability advisory that suppliers (providers, vendors, developers) publish or share with users to provide (ideally detection, remediation, mitigation) information about vulnerabilities.
+
+While the rest of this document aging, VEX is still about vulnerability status and VAR is still a higher level concept. In general, a VAR could contain VEX, as done in the [CSAF VEX profile](https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html#45-profile-5-vex).
 
 ## VDR defined
 
