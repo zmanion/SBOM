@@ -5,7 +5,7 @@ zmanion@protonmail.com
 
 ## Summary
 
-Vulnerability Exploitability eXchange (VEX) and Vulnerability Disclosure Reports (VDR) are similar concepts that are sometimes conflated or confused. In the [November 2024 update to NIST SP 800-161r1]([url](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1-upd1.pdf)), it appears that VDR has been redefined as a "vulnerability advisory report" or VAR:
+Vulnerability Exploitability eXchange (VEX) and Vulnerability Disclosure Reports (VDR) are similar concepts that are sometimes conflated or confused. In the [November 2024 update to NIST SP 800-161r1](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1-upd1.pdf), it appears that VDR has been redefined as a "vulnerability advisory report" or VAR:
 
 > vulnerability advisory report
 > Publication by a technology developer and/or provider to customers or the general public that describes a
